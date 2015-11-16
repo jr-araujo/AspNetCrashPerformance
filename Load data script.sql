@@ -1,0 +1,10 @@
+INSERT INTO PRODUTO(Nome
+,Preco
+,Marca
+,Categoria
+,Modelo
+,Tamanho
+,DataCadastro)
+VALUES('PRODUTO TESTE', 150.00, 'MARCA TESTE', 'CATEGORIA TESTE', 'MODELO TESTE', 'M', GETDATE())
+
+GO 160000
